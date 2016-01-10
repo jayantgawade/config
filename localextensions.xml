@@ -11,7 +11,7 @@
 			
 			<!--Custom-->
 		<extension name="cuppy"/>
-						                                     
+	    <extension name="cuppytrail"/>                       
         <!-- ext-platform -->
         <extension name="admincockpit" />
         <extension name="backoffice" />
