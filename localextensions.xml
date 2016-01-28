@@ -11,6 +11,7 @@
 		<extension name="cuppytrailhmc"/>
 		<extension name="cuppytrailfrontend"/>
 		<extension name="cuppytrailcockpit"/>	
+		<extension name="cuppytrailbackoffice"/>				
 				
 		<!-- ext-platform -->
 		<extension name="admincockpit" />
